@@ -1,5 +1,6 @@
 body {
   color: whitesmoke;
+  height: 100%;
 }
 .jumbotron {
   padding-top: 7rem;
@@ -27,7 +28,6 @@ footer {
   text-align: center;
   line-height: 50px;
   height: 50px;
-  padding-bottom: 10px;
 }
 
 footer a {
