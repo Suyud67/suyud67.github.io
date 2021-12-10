@@ -1,4 +1,4 @@
-# WEBSITE-PORTFOLIO
+# Website-Portfolio
 Hello i'm Suyud Setiawan. This is my first website portfolio, if you want check out my website hit the link below!!
 <br>link: https://suyud67.github.io/
 <br>This portfolio created with:
